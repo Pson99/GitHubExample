@@ -19,6 +19,7 @@ public class GitHubExample1 {
         System.out.println("Detta är ett exempel för GitHub");
         System.out.println("Detta är en ny rad!");
         System.out.println("Detta är en tredje rad");
+        System.out.println("Sista raden i projektet");
     }
     
 }
